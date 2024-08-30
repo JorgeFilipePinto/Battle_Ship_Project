@@ -1,0 +1,3 @@
+C:/Users/jorge/CLionProjects/Battle_Ship/cmake-build-debug/CMakeFiles/Battle_Ship.dir
+C:/Users/jorge/CLionProjects/Battle_Ship/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jorge/CLionProjects/Battle_Ship/cmake-build-debug/CMakeFiles/rebuild_cache.dir

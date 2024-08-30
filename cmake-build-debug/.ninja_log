@@ -1,0 +1,10 @@
+# ninja log v5
+14	544	7467274705531291	CMakeFiles/Battle_Ship.dir/Player.cpp.obj	2751649ef1ec8c65
+5	517	7467274705256034	CMakeFiles/Battle_Ship.dir/Map.cpp.obj	71d03ff886e30fb6
+9	532	7467274705421286	CMakeFiles/Battle_Ship.dir/Boat.cpp.obj	11a3aeb0127ae882
+5	745	7467276512127943	CMakeFiles/Battle_Ship.dir/BattleShip.cpp.obj	c05a1d6c3001f298
+1	181	7467276822767052	build.ninja	9bb3b26eaea8ff58
+3	652	7467276829945210	CMakeFiles/Battle_Ship.dir/Map.cpp.obj	e4d7068afde753db
+11	742	7467276830858137	CMakeFiles/Battle_Ship.dir/Boat.cpp.obj	c7b32af653cc05de
+7	850	7467276832037748	CMakeFiles/Battle_Ship.dir/Player.cpp.obj	bce63e8a8e13b289
+851	1168	7467276835228155	Battle_Ship.exe	b5e96a83bb33984b
